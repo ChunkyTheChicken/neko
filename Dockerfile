@@ -1,4 +1,4 @@
-FROM ghcr.io/m1k1o/neko/firefox:latest
+FROM ghcr.io/m1k1o/neko/chromium:latest
 
 ENV NEKO_SCREEN=1280x720
 ENV NEKO_PASSWORD=user
